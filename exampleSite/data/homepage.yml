@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Sandipan <br> Full-Stack Developer"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "I’m an India-based CS undergraduate who specializes in building (and occasionally designing) amazing web-applications I’ve also been part of a few amazing clubs in my college and have had the privilege of working closely with a startup as a sophomore. Currently, I’m exploring Nodejs and working on building full-stack human-centered products."
   button:
     enable : true
     label : "know more"
@@ -16,21 +16,22 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
-      progress : "90%"
-      color : "#fdb157"
-      
-    - title : "Logo Design"
-      progress : "60%"
+
+    - title : "Frontend Design"
+      progress : "80%"
       color : "#9473e6"
       
-    - title : "After Effects"
-      progress : "80%"
+    - title : "Backend Dev"
+      progress : "60%"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
+    - title : "Web Apps"
+      progress : "50%"
       color : "#ffbcaa"
+
+    - title : "Problem Solving"
+      progress : "70%"
+      color : "#fdb157"
 
 # experience
 experience:
@@ -38,40 +39,33 @@ experience:
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Frontend Developer"
+      company : "CODING NINJAS SRM"
+      duration : "Jun 2020 - Aug 2020 "
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Technical Content Writer"
+      company : "CRIO.DO"
+      duration : "Apr 2021 - Present"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "Web Development Intern"
+      company : "SPARKS FOUNDATION"
+      duration : "Sep 2020 - Oct 2020"
 
 # education
 education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "Bachelors in Computer Science"
+      year : "2019 - Present"
+      academy : "SRM University"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Higher Secondary Certificate"
+      year : "2017 - 2019"
+      academy : "Don Bosco School"
 
 # service
 service:
@@ -80,17 +74,17 @@ service:
   item:
     - title : "UI Design"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "I specialize in creating visually creative and aesthetic websites that live on the Internet."
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Backend Development"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "I love to tinker and play with the backend of multifarious websites. Ping me up for your backend development needs."
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Responsive Design"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "I specialize in creating multi-device responsive web pages with ease. Need help with a website? Hit me up right now."
       highlighted : false
 
 # portfolio
@@ -100,59 +94,59 @@ portfolio:
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
-# testimonial
-testimonial:
-  enable : true
-  title : "Testimonials"
-  item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+# # testimonial
+# testimonial:
+#   enable : true
+#   title : "Testimonials"
+#   item:
+#     - name : "Jesica Gomez"
+#       image : "images/testimonial/client-1.png"
+#       designation : "CEO, Funder"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#     - name : "Shirley Scot"
+#       image : "images/testimonial/client-1.png"
+#       designation : "CEO, Funder"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#     - name : "Jessica Julie"
+#       image : "images/testimonial/client-1.png"
+#       designation : "CEO, Funder"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 # client logo slider
-clients_logo_slider:
-  enable : true
-  item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+# clients_logo_slider:
+#   enable : true
+#   item:
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-4.png"
+#       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+#     - logo : "images/clients-logo/client-logo-5.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
+#     - logo : "images/clients-logo/client-logo-4.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-5.png"
+#       URL : "#"
 
 # blog
 blog:

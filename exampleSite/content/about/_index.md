@@ -6,8 +6,10 @@ author_signature : "images/about/signature.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I'm a passionate full-stack web developer and algorithmic thinker. Ever since my first "Hello World" project in HTML, I've been obsessed with creating and working with web-based code through real-life scenarios and projects.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+I specialize in creating aesthetic websites with working backends and I'm currently exploring more about Nodejs and MongoDB.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I'm a firm believer in the continual process of learning and my passion for software development has always motivated me to explore its multifarious aspects and share them with the world. 
+
+Feel free to reach out to me via email at [sandipan2224@gmail.com](mailto::sandipan2224@gmail.com) ✉

@@ -1,30 +1,29 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-1.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design","development"]
+title: "Static Price Tracker Bot"
+date: 2019-05-16T12:14:34+06:00
+image: "images/portfolio/tracker.jpg"
+client: "Sandipan Das"
+project_url : "https://tinyurl.com/635uku27"
+categories: ["Automation"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+### Project Requirements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+This project is built with the following tools and languages: 
+
+&gt; [Python](https://www.python.org/)  
+&gt; [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+### Project Details
+
+This static web scraper model uses Python and BeautifulSoup to locate and extract the necessary HTML elements from an e-commerce website. Here, I've zoomed in on Flipkart and targeted the web scraper model to track and extract the price value of my customised product from this platform over regular intervals of time.
+
+Here's why it's so awesome:
+
+&gt; Eliminates the hassle of constantly checking the price value of my desired product.  
+&gt; Automates your boring process of monitoring and purchasing the product when a desired value is reached.  
+&gt; Automatically sends you an email when the price value of the article falls below a certain user-defined bar.  
 
 
-#### Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
