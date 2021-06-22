@@ -3,7 +3,7 @@ baseURL = "https://sandip2224.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Portfolio | Sandipan ©"
+title = "Sandipan ©"
 
 # css plugins
 [[params.plugins.css]]
