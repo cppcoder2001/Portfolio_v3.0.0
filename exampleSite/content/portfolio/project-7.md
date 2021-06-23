@@ -5,7 +5,7 @@ image: "images/portfolio/ecom.png"
 client: "Sandipan Das"
 project_url : "https://tinyurl.com/32upbufm"
 categories: ["Full-Stack"]
-description: "This is meta description."
+description: "The best of Sandipan Das at a single place."
 draft: false
 ---
 

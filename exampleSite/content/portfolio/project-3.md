@@ -5,7 +5,7 @@ image: "images/portfolio/island.png"
 client: "Coding Ninjas SRM"
 project_url : "https://tinyurl.com/5hmyusux"
 categories: ["Design"]
-description: "This is meta description."
+description: "The best of Sandipan Das at a single place."
 draft: false
 ---
 

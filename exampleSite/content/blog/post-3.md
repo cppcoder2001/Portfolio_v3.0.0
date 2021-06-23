@@ -2,7 +2,7 @@
 title: "Amazon's role in COVID-19"
 date: 2019-05-12T12:14:34+06:00
 image: "images/blog/amazon.jpg"
-description: "This is meta description."
+description: "The best of Sandipan Das at a single place."
 draft: false
 ---
 

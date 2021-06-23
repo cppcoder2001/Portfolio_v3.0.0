@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "This is meta description."
+description: "The best of Sandipan Das at a single place."
 author_image : "images/about/author.jpg"
 author_signature : "images/about/signature.png"
 draft: false

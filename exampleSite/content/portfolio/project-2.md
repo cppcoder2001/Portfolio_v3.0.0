@@ -5,7 +5,7 @@ image: "images/portfolio/simon.gif"
 client: "Sandipan Das"
 project_url : "https://tinyurl.com/3ydsj9sb"
 categories: ["Javascript"]
-description: "This is meta description."
+description: "The best of Sandipan Das at a single place."
 draft: false
 ---
 

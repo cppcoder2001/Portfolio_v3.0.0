@@ -5,7 +5,7 @@ image: "images/portfolio/instagram.jpg"
 client: "Sandipan Das"
 project_url : "https://tinyurl.com/tch76pa"
 categories: ["Automation"]
-description: "This is meta description."
+description: "The best of Sandipan Das at a single place."
 draft: false
 ---
 

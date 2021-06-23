@@ -2,7 +2,7 @@
 title: "Diving into Open-Source with Hacktoberfest-2020"
 date: 2019-05-12T12:14:34+06:00
 image: "images/blog/hack.png"
-description: "This is meta description."
+description: "The best of Sandipan Das at a single place."
 draft: false
 ---
 
